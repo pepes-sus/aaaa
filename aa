@@ -1,0 +1,104 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="a.css"> 
+	</head>
+	<body style="background-color: #df8d36">
+    <style>
+      
+@media screen {
+	.glav{
+		
+	margin-left: 20%;
+	margin-right: 20%;
+	display: flex;
+	flex-direction: row;
+	width: max-width;
+	flex-wrap: wrap;
+	justify-content: center;
+	
+	}
+}
+
+@main{
+	
+	background-color: #df8d36;
+}
+
+.a{
+	width: 250px;
+	text-align: center;
+	aspect-ratio: 1/1;
+	margin-right: 1%;
+	margin-bottom: 1%;
+	margin-top: 1%;
+	margin-left: 1%;
+	border-radius: 15%;
+	
+	background-color: white;
+	
+}
+
+.big{
+	font-size: 30px;
+}
+    </style>
+		<h1 style="text-align:center">SDSKF</h1>
+		<div class="glav">
+			
+			<div class="a">
+				<p class="big">01<p>
+				<br>
+				<p>fkjshgdfuksghdgkljsdkljld</p>
+			</div>
+			<div class="a">
+				<p class="big">02<p>
+				<br>
+				<p>fkjshgdfuksghdgkljsdkljld</p>
+			</div>
+			<div class="a">
+				<p class="big">03<p>
+				<br>
+				<p>fkjshgdfuksghdgkljsdkljld</p>
+			</div>
+			<div class="a">
+				<p class="big">04<p>
+				<br>
+				<p>fkjshgdfuksghdgkljsdkljld</p>
+			</div>
+			<div class="a">
+				<p class="big">05<p>
+				<br>
+				<p>fkjshgdfuksghdgkljsdkljld</p>
+			</div>
+			<div class="a">
+				<p class="big">06<p>
+				<br>
+				<p>fkjshgdfuksghdgkljsdkljld</p>
+			</div>
+			<div class="a">
+				<p class="big">07<p>
+				<br>
+				<p>fkjshgdfuksghdgkljsdkljld</p>
+			</div>
+			<div class="a">
+				<p class="big">08<p>
+				<br>
+				<p>fkjshgdfuksghdgkljsdkljld</p>
+			</div>
+			<div class="a">
+				<p class="big">09<p>
+				<br>
+				<p>fkjshgdfuksghdgkljsdkljld</p>
+			</div>
+			<div class="a">
+				<p class="big">10<p>
+				<br>
+				<p>fkjshgdfuksghdgkljsdkljld</p>
+			</div>
+		</div>
+		<p style="text-align:center">ssilka</p>
+		<footer style="align: bottom; background-color:gray; height:10%">
+			<p style="text-align:center; padding-top:2%">aaa</p>
+		</footer>
+	<body>
+</html>
